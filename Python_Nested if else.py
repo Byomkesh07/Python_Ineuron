@@ -1,6 +1,6 @@
 #Declaring and assign the variables
 
-a=45
+a=89
 
 #conditions applied
 
